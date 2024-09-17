@@ -1,0 +1,6 @@
+tuple=(2,"neha",6,4)
+print(tuple)
+print(tuple[2])
+tup=()
+print(tup)
+print(type(tup))
